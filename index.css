@@ -1,0 +1,88 @@
+<<<<<<< HEAD
+body {
+    min-height: 2000px;
+}
+.navbar{
+    background-color: #BC7AF9;
+}
+
+.jumbotron{
+    padding-top: 2rem;
+    background-color: #DFCCFB; 
+}
+
+#education{
+    background-color: #DFCCFB; 
+}
+
+.shadow-effect {
+    background-color: rgb(246, 246, 246)!important;
+    transition: box-shadow .3s;
+    border-radius:10px;
+    border: 1px solid #fff;
+    background: #fff;
+  }
+  
+  .shadow-effect h4 {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .shadow-effect p.text-brand {
+    color: #000; 
+    font-weight: bold;
+  }
+  
+  .shadow-effect p.mb-0 {
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+.shadow-effect:hover {
+    background-color: white!important;
+    box-shadow: 10px 10px 2px 1px rgba(44, 0, 70, 0.2)!important;
+  }
+=======
+body {
+    min-height: 2000px;
+}
+.navbar{
+    background-color: #BC7AF9;
+}
+
+.jumbotron{
+    padding-top: 2rem;
+    background-color: #DFCCFB; 
+}
+
+#education{
+    background-color: #DFCCFB; 
+}
+
+.shadow-effect {
+    background-color: rgb(246, 246, 246)!important;
+    transition: box-shadow .3s;
+    border-radius:10px;
+    border: 1px solid #fff;
+    background: #fff;
+  }
+  
+  .shadow-effect h4 {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .shadow-effect p.text-brand {
+    color: #000; 
+    font-weight: bold;
+  }
+  
+  .shadow-effect p.mb-0 {
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+.shadow-effect:hover {
+    background-color: white!important;
+    box-shadow: 10px 10px 2px 1px rgba(44, 0, 70, 0.2)!important;
+  }
+>>>>>>> b01e8f1 (first commit)
+  
